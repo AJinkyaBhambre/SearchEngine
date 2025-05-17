@@ -1,0 +1,8 @@
+streamlit
+pandas
+langchain
+Groq
+Gemini 
+sentence-transformers
+faiss-cpu
+python-dotenv
